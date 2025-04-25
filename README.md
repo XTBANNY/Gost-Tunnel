@@ -9,12 +9,12 @@
 ## 简介
 
 > 项目地址及帮助文档:  
-> https://github.com/xtfneeq1202/Gost-Tunnel
+> https://github.com/XTBANNY/Gost-Tunnel
 ***
 ## 脚本
 
 * 启动脚本  
-  `wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/xtfneeq1202/Gost-Tunnel/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
+  `wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/XTBANNY/Gost-Tunnel/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
 * 再次运行本脚本只需要输入`./gost.sh`回车即可  
 
 > 注：由于 gost v2.11.2 功能稳定，此脚本将一直采用该版本，后续不再跟随官方更新
@@ -45,7 +45,7 @@
 
 ## 功能展示
 
-![iShot2020-12-14下午05.42.23.png](https://github.com/xtfneeq1202/Gost-Tunnel/blob/main/.idea/1.png?raw=true)
+![iShot2020-12-14下午05.42.23.png](https://github.com/XTBANNY/Gost-Tunnel/blob/main/.idea/1.png?raw=true)
 
 ![iShot2020-12-14下午05.42.39.png](https://i.loli.net/2020/12/14/vzpGlWmPtCrneOY.png)
 
